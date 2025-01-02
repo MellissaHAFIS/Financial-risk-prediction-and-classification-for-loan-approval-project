@@ -1,5 +1,6 @@
 # Financial risk prediction and classification for loan approval
-![image.png](attachment:3763ecd7-482f-4d84-be17-38f693e67101.png)
+
+![Uploading image.png…]()
 
 ## Overview
 In the modern financial landscape, effective risk assessment and accurate loan approval predictions are crucial for minimizing losses and ensuring the sustainability of financial institutions. The ability to evaluate the financial health and reliability of loan applicants can streamline decision-making processes, reduce defaults, and optimize resource allocation.
